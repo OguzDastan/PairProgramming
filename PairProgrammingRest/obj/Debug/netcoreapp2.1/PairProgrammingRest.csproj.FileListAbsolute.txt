@@ -1,0 +1,17 @@
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\MusicLib.dll
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.csprojAssemblyReference.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.csproj.CoreCompileInputs.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.RazorAssemblyInfo.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.RazorAssemblyInfo.cs
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.AssemblyInfoInputs.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.AssemblyInfo.cs
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.RazorTargetAssemblyInfo.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\PairProgrammingRest.deps.json
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\PairProgrammingRest.runtimeconfig.json
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\PairProgrammingRest.runtimeconfig.dev.json
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\PairProgrammingRest.dll
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\PairProgrammingRest.pdb
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\bin\Debug\netcoreapp2.1\MusicLib.pdb
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.csproj.CopyComplete
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.dll
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\PairProgrammingRest\obj\Debug\netcoreapp2.1\PairProgrammingRest.pdb

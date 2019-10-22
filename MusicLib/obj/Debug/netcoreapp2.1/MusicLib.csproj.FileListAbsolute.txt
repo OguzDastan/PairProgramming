@@ -1,0 +1,9 @@
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\bin\Debug\netcoreapp2.1\MusicLib.deps.json
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\bin\Debug\netcoreapp2.1\MusicLib.dll
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\bin\Debug\netcoreapp2.1\MusicLib.pdb
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\obj\Debug\netcoreapp2.1\MusicLib.csprojAssemblyReference.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\obj\Debug\netcoreapp2.1\MusicLib.csproj.CoreCompileInputs.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\obj\Debug\netcoreapp2.1\MusicLib.AssemblyInfoInputs.cache
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\obj\Debug\netcoreapp2.1\MusicLib.AssemblyInfo.cs
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\obj\Debug\netcoreapp2.1\MusicLib.dll
+C:\Users\Oguz Dastan\source\repos\PairProgrammingRest\MusicLib\obj\Debug\netcoreapp2.1\MusicLib.pdb

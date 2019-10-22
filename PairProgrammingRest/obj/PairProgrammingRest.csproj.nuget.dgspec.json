@@ -4,14 +4,14 @@
     "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj": {
+    "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\MusicLib\\MusicLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj",
-        "projectName": "PairProgrammingRest",
-        "projectPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj",
+        "projectUniqueName": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\MusicLib\\MusicLib.csproj",
+        "projectName": "MusicLib",
+        "projectPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\MusicLib\\MusicLib.csproj",
         "packagesPath": "C:\\Users\\Oguz Dastan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\obj\\",
+        "outputPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\MusicLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,62 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj",
+        "projectName": "PairProgrammingRest",
+        "projectPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\PairProgrammingRest.csproj",
+        "packagesPath": "C:\\Users\\Oguz Dastan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\PairProgrammingRest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oguz Dastan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\MusicLib\\MusicLib.csproj": {
+                "projectPath": "C:\\Users\\Oguz Dastan\\source\\repos\\PairProgrammingRest\\MusicLib\\MusicLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -56,6 +112,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             }
           },
           "imports": [
